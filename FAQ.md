@@ -1,1 +1,6 @@
 # よくある質問
+
+## Q: USB2BTPlusで接続先をキーボードで切り替えることはできますか
+
+### A: キーボードショートカットが利用可能です。
+http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
