@@ -12,6 +12,13 @@ Bluetoothに変換しiPhone/スマートフォン/パソコンを操作可能と
 Bluetooth変換を楽しむことができるほか、キー置き換え機能や3台までの  
 スマホ/PC切り替えに対応し、一層便利なアイテムになりました。  
 
+---
+
+※本製品はUSB HID(ヒューマンインターフェイスデバイス) をBluetoothに変換する製品です。  
+USBキーボード、マウス、ゲームパッド等のみご利用いただけます。  
+
+---
+
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/usb2btp/)!
 
 ## [PCアプリ](http://sohta02.web.fc2.com/usb2btp4_release_j.html)
