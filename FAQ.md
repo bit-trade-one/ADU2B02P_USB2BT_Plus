@@ -38,7 +38,8 @@ http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
 ### Q: 親指シフトがPCでは行えるが、取り外してipadにつなげても出来ません。
 
 #### A: 親指シフト設定はWindows、ipadそれぞれに割り当てる必要があります。
-接続先が親指シフト設定になっているかどうかは下記画像赤枠部で確認できます。
+接続先が親指シフト設定になっているかどうかは下記画像赤枠部で確認できます。  
+  
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/11/7b91fa174967d8a7cfba1907a7379b5a.png" width="480px">  
 
   
