@@ -25,3 +25,9 @@ http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
 ## Q: マウスのキー置換に対応していますか?
 
 ### A: 恐れ入りますが対応しておりません。
+
+----
+
+## Q: CapsLockキーもCtrlキーもCtrlキーと設定することは可能ですか？
+
+### A: 非対応となっております。
