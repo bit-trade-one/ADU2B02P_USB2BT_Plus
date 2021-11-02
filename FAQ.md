@@ -6,7 +6,7 @@
 本製品はUSB HID(ヒューマンインターフェイスデバイス)
 をBluetoothに変換する製品となっております。  
 USBキーボード、マウス、ゲームパッド等のみご利用いただけます。
-
+  
 ----
   
 ## Q: USB2BTPlusで接続先をキーボードで切り替えることはできますか
@@ -33,3 +33,4 @@ http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
 
 ### A: 非対応となっております。
   
+----
