@@ -1,4 +1,8 @@
 # よくある質問
+作者殿のページも合わせてご確認ください。
+https://github.com/sohtamei/docs/tree/master/usb2bt
+
+----
 
 ### Q:WEBカメラ・外付けハードディスク等は使えますか？
 
