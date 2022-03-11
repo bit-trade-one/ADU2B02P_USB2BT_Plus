@@ -57,3 +57,11 @@ http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
   
 ----
 
+### Q: Quattro TKLで使用できますか？
+
+#### A: 対応状況は下記のとおりです。
+
+　Win10：OK  
+　android：NG(マウスキー効かない)  
+　iOS：NG(キーボード、マウス効かない)  
+
