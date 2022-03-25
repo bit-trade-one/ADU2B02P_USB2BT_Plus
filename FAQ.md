@@ -59,13 +59,5 @@ http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
 
 ### Q: Quattro TKLで使用できますか？
 
-#### A: 対応状況は下記のとおりです。
-
-　Win10：OK  
-　android：NG(マウスキー効かない)  
-　iOS：NG(キーボード、マウス効かない)  
- 
- QuattroTKLはUSBプロトコル上スティックとL/Rボタンそれぞれで別のHIDデバイスとして動作しています。  
-androidについては１つのデバイスにつき１つのマウスしか動作しないため、L/Rキーが動作しません。  
-iOSについては全ての機能が使えません  
-
+#### A: 専用ファームをご使用ください。
+https://sohtamei.github.io/docs/usb2bt/QuattroTKL.html
