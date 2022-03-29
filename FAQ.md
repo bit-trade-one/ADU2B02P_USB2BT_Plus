@@ -67,3 +67,5 @@ https://sohtamei.github.io/docs/usb2bt/QuattroTKL.html
 ### Q: Rev-O-mate (レボメイト)と合わせて使用できますか？
 
 #### A: OSに関係なくrevomate＋USB2BTplusは非対応となっております。
+
+----
