@@ -61,3 +61,9 @@ http://sohta02.web.fc2.com/usb2btp1_setup_j.html#dev_shortcut
 
 #### A: 専用ファームをご使用ください。
 https://sohtamei.github.io/docs/usb2bt/QuattroTKL.html
+
+----
+
+### Q: Rev-O-mate (レボメイト)と合わせて使用できますか？
+
+#### A: OSに関係なくrevomate＋USB2BTplusは非対応となっております。
