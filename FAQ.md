@@ -1,6 +1,6 @@
 # よくある質問
-作者殿のページも合わせてご確認ください。
-https://github.com/sohtamei/docs/tree/master/usb2bt
+作者殿のページも合わせてご確認ください。  
+https://sohtamei.github.io/docs/usb2bt/
 
 ----
 
