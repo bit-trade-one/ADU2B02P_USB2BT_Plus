@@ -25,6 +25,8 @@ USBキーボード、マウス、ゲームパッド等のみご利用いただ�
 
 ## [セットアップ・使い方](http://sohta02.web.fc2.com/usb2btp1_setup_j.html)
 
+## [FAQ](FAQ.md)
+
 ## 製品仕様
 
 【対象スマートフォン・タブレッドPC】iOS/android/Windows7以降/MAC OS X (Bluetooth対応)  
