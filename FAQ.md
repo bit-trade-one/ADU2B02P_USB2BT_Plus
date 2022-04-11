@@ -69,3 +69,9 @@ https://sohtamei.github.io/docs/usb2bt/QuattroTKL.html
 #### A: OSに関係なくRev-O-mate＋USB2BTplusは非対応となっております。
 
 ----
+
+### Q: Windows11で使用できますか？
+
+#### A: Win11ドライバは対応済みです。
+
+----
