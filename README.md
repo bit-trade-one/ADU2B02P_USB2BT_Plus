@@ -23,7 +23,7 @@ USBキーボード、マウス、ゲームパッド等のみご利用いただ�
 
 ## [PCアプリ](http://sohta02.web.fc2.com/usb2btp4_release_j.html)
 
-## [セットアップ・使い方](http://sohta02.web.fc2.com/usb2btp1_setup_j.html)
+## [セットアップ・使い方](http://sohta02.web.fc2.com/usb2btp1_setup_j.html)(そーたメイ サイトへ)
 
 ## [FAQ](FAQ.md)
 
