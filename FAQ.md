@@ -40,7 +40,7 @@ https://sohtamei.github.io/docs/usb2bt/
 
 [Q:Tera TermからUSB2BTPlusを制御したい](#q-tera-termからusb2btplusを制御したい)
 
-[Q:動作確認済みのhubを教えてください](#q-動作確認済みのhubを教えてください)
+[Q:動作確認済みのUSBHUBを教えてください](#q-動作確認済みのusbhubを教えてください)
 
 ----
 
@@ -210,7 +210,7 @@ teraterm等で接続していただいて、「?」を送りますとコマン�
 
 
 ----
-### Q: 動作確認済みのHUBを教えてください
+### Q: 動作確認済みのUSBHUBを教えてください
 
 #### A: 下記に記します。
 
