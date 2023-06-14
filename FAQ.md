@@ -1,3 +1,5 @@
+
+
 # よくある質問
 作者殿のページも合わせてご確認ください。  
 https://sohtamei.github.io/docs/usb2bt/
@@ -37,6 +39,8 @@ https://sohtamei.github.io/docs/usb2bt/
 [Q:ノートPCのキーボードをスマホ等に入力するモードで、ノートPCのポインティングデバイス・タッチパッドは他機器に対して入力できますか？](#q-ノートpcのキーボードをスマホ等に入力するモードでノートpcのポインティングデバイスタッチパッドは他機器に対して入力できますか)
 
 [Q:Tera TermからUSB2BTPlusを制御したい](#q-tera-termからusb2btplusを制御したい)
+
+[Q:動作確認済みのhubを教えてください](#q-動作確認済みのhubを教えてください)
 
 ----
 
@@ -206,5 +210,14 @@ teraterm等で接続していただいて、「?」を送りますとコマン�
 
 
 ----
+### Q: 動作確認済みのHUBを教えてください
 
+#### A: 下記に記します。
 
+| 動作確認USBHUB       |
+|--------------------|
+| IZEC-A60           |
+| elecom U2H-YS4BBK  |
+| elecom U2H-SS4BBK  |
+| seria x2 hub       |
+| GH-UHC204PW        |
