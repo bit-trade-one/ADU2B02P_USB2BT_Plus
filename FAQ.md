@@ -44,6 +44,17 @@ https://sohtamei.github.io/docs/usb2bt/
 
 ----
 
+### Q:iPadで使いたいのですが動作しますか？
+
+#### A: 本製品は基本的にはWindowsでの使用を想定しております。
+iPadでご使用の際は 下記リンクを参考にファームウェアの更新を行っていただくことで
+本製品をiPadでご使用いただくことができます。
+https://www.yubidenwa.jp/wakarukawarukun/ 
+https://www.yubidenwa.jp/switchkit/
+
+### ファームウェアを更新した製品に関するサポートは上記サイトにお問い合わせください。
+----
+
 ### Q:一度設定をした後、別のPCに接続しても動作しますか？
 
 #### A: はい。一度設定された内容はマイコン内部に保存されます。
