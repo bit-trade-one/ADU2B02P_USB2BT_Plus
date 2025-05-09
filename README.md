@@ -46,3 +46,6 @@ USBキーボード、マウス、ゲームパッド等のみご利用いただ�
 
 [「Note」様 / 「マウス・キーボード切替器として優秀"USB2BT PLUS"レビュー」](https://note.com/sasimitu/n/ne20e15260c74)
 
+[「AndroPlus」様 / 「USB機器をBluetooth化できる！USB2BT PLUSレビュー。マウスやキーボードの共有で机すっきり」](https://androplus.jp/Entry/19427/)
+
+[「エルミタージュ秋葉原」様 / 「【コレオシ】お気に入りのUSB機器をBluetooth化してくれる「USB2BT PLUS」が手放せない」](https://www.gdm.or.jp/crew/2022/1004/458409)
