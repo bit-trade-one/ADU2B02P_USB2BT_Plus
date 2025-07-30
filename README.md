@@ -18,11 +18,11 @@ Bluetooth変換を楽しむことができるほか、キー置き換え機能�
 USBキーボード、マウス、ゲームパッド等のみご利用いただけます。  
 ---
 
-## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/usb2btp/)!
+## 製品詳細は[こちら](https://bit-trade-one.co.jp/usb2btplus/)!
 
-## [PCアプリ](http://sohta02.web.fc2.com/usb2btp4_release_j.html)
+## [PCアプリ](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus/blob/master/USB2BTPLUS-C_v20_ja.zip)
 
-## [セットアップ・使い方](http://sohta02.web.fc2.com/usb2btp1_setup_j.html)(そーたメイ サイトへ)
+## [セットアップ・使い方](https://bit-trade-one.co.jp/usb2btplus/basic/)(そーたメイ サイトへ)
 
 ## [FAQ](FAQ.md)
 
