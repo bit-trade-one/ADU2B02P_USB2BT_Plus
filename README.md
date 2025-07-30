@@ -1,8 +1,8 @@
-# ADU2B02P USB2BT PLUS
+# ADU2B02P USB2BTPLUS and USB2BTPLUS-C
 
 ## お気に入りのHIDデバイスをBlueTooth変換! “USB2BT PLUS”
 
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2018/06/2018-06-07_20-17-09.png)  
+![](http://bit-trade-one.co.jp/usb2btplus/wp-content/uploads/sites/9/2025/07/50f31626f0ee8ea174e86a765721d00e.png)  
 
 お気に入りのUSBキーボード/マウス/ゲームパッドなどUSB HIDデバイスを  
 Bluetoothに変換しiPhone/スマートフォン/パソコンを操作可能とする  
@@ -11,12 +11,11 @@ Bluetoothに変換しiPhone/スマートフォン/パソコンを操作可能と
 技適対応済みのBluetoothモジュールを本体に内蔵し手軽にUSBからHIDデバイスの  
 Bluetooth変換を楽しむことができるほか、キー置き換え機能や3台までの  
 スマホ/PC切り替えに対応し、一層便利なアイテムになりました。  
-
+![](http://bit-trade-one.co.jp/usb2btplus/wp-content/uploads/sites/9/2025/07/SUB2.jpg)  
 ---
 
 ※本製品はUSB HID(ヒューマンインターフェイスデバイス) をBluetoothに変換する製品です。  
 USBキーボード、マウス、ゲームパッド等のみご利用いただけます。  
-
 ---
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/usb2btp/)!
