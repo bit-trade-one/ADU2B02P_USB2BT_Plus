@@ -20,7 +20,7 @@ USBキーボード、マウス、ゲームパッド等のみご利用いただ�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/usb2btplus/)!
 
-## [PCアプリ](USB2BTPLUS.zip)
+## [PCアプリ](USB2BTplus.zip)
 ※最新アプリにバグが見つかったため、旧アプリにリンクしています。近日中にアップデートし、新アプリに切り替えます。（8/4)
 
 ## [セットアップ・使い方](https://bit-trade-one.co.jp/usb2btplus/basic/)
@@ -51,6 +51,7 @@ USBキーボード、マウス、ゲームパッド等のみご利用いただ�
 [「AndroPlus」様 / 「USB機器をBluetooth化できる！USB2BT PLUSレビュー。マウスやキーボードの共有で机すっきり」](https://androplus.jp/Entry/19427/)
 
 [「エルミタージュ秋葉原」様 / 「【コレオシ】お気に入りのUSB機器をBluetooth化してくれる「USB2BT PLUS」が手放せない」](https://www.gdm.or.jp/crew/2022/1004/458409)
+
 
 
 
